@@ -1,15 +1,15 @@
 # Workout Manager
 
-Aplicação web para planejamento e acompanhamento de treinos de academia.
+Web application for planning and tracking gym workouts.
 
-## Objetivos
+## Goals
 
-- Planejamento semanal de treinos
-- Registro de cargas e repetições
-- Histórico de execução
-- Integração com API de exercícios
-- Desenvolvimento de competências em Java, Spring Boot e SQL
+- Weekly workout planning
+- Tracking weights and repetitions
+- Workout history
+- Integration with an exercise API
+- Developing skills in Java, Spring Boot, and SQL
 
 ## Status
 
-Em fase de levantamento de requisitos.
+Currently in the requirements gathering phase.
